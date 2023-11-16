@@ -3,7 +3,35 @@ generator client {
 }
 
 datasource db {
-  provider = "mysql"
-  url = env("DATABASE_URL")
-  relationMode = "prisma"
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Stat {
+  character_name     String @id()
+  atk                Float
+  hp                 Float
+  reality_def        Float
+  mental_def         Float
+  critical_technique Float
+  critical_rate      Float
+  critical_damage    Float
+}
+
+model Character {
+  character_id String   @id() @default(uuid())
+  name         String   @unique()
+  afflatus     String
+  rarity       Int
+  damage_type  String
+  position     String[]
+}
+
+model LevelCost {
+  id          String @id() @default(uuid())
+  level       Int
+  rarity      Int
+  dust        Int
+  sharpodonty Int
+  insight     Int
 }
