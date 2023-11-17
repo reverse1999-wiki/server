@@ -13,4 +13,19 @@ export class LevelService {
     });
     return cost;
   }
+
+  async saveLevelCost(levelCosts: object[]) {
+    for (let i = 0; i < levelCosts.length; i++) {
+      await this.prisma.levelCost.create({
+        data: {
+          level: levelCosts[i]['level'],
+          rarity: levelCosts[i]['rarity'],
+          dust: levelCosts[i]['dust'],
+          sharpodonty: levelCosts[i]['sharpodonty'],
+          insight: levelCosts[i]['insight'],
+        },
+      });
+    }
+    return 'complete';
+  }
 }
