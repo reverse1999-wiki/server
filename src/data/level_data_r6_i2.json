@@ -1,0 +1,345 @@
+[
+  {
+    "level": 1,
+    "rarity": 6,
+    "dust": 1100,
+    "sharpdonty": 400,
+    "insight": 2
+  },
+  {
+    "level": 2,
+    "rarity": 6,
+    "dust": 1400,
+    "sharpdonty": 500,
+    "insight": 2
+  },
+  {
+    "level": 3,
+    "rarity": 6,
+    "dust": 1700,
+    "sharpdonty": 600,
+    "insight": 2
+  },
+  {
+    "level": 4,
+    "rarity": 6,
+    "dust": 2000,
+    "sharpdonty": 700,
+    "insight": 2
+  },
+  {
+    "level": 5,
+    "rarity": 6,
+    "dust": 2300,
+    "sharpdonty": 800,
+    "insight": 2
+  },
+  {
+    "level": 6,
+    "rarity": 6,
+    "dust": 2600,
+    "sharpdonty": 900,
+    "insight": 2
+  },
+  {
+    "level": 7,
+    "rarity": 6,
+    "dust": 2900,
+    "sharpdonty": 1000,
+    "insight": 2
+  },
+  {
+    "level": 8,
+    "rarity": 6,
+    "dust": 3200,
+    "sharpdonty": 1100,
+    "insight": 2
+  },
+  {
+    "level": 9,
+    "rarity": 6,
+    "dust": 3500,
+    "sharpdonty": 1200,
+    "insight": 2
+  },
+  {
+    "level": 10,
+    "rarity": 6,
+    "dust": 3800,
+    "sharpdonty": 1300,
+    "insight": 2
+  },
+  {
+    "level": 11,
+    "rarity": 6,
+    "dust": 4100,
+    "sharpdonty": 1400,
+    "insight": 2
+  },
+  {
+    "level": 12,
+    "rarity": 6,
+    "dust": 4400,
+    "sharpdonty": 1500,
+    "insight": 2
+  },
+  {
+    "level": 13,
+    "rarity": 6,
+    "dust": 4700,
+    "sharpdonty": 1600,
+    "insight": 2
+  },
+  {
+    "level": 14,
+    "rarity": 6,
+    "dust": 5000,
+    "sharpdonty": 1700,
+    "insight": 2
+  },
+  {
+    "level": 15,
+    "rarity": 6,
+    "dust": 5300,
+    "sharpdonty": 1800,
+    "insight": 2
+  },
+  {
+    "level": 16,
+    "rarity": 6,
+    "dust": 5600,
+    "sharpdonty": 1900,
+    "insight": 2
+  },
+  {
+    "level": 17,
+    "rarity": 6,
+    "dust": 5900,
+    "sharpdonty": 2000,
+    "insight": 2
+  },
+  {
+    "level": 18,
+    "rarity": 6,
+    "dust": 6200,
+    "sharpdonty": 2100,
+    "insight": 2
+  },
+  {
+    "level": 19,
+    "rarity": 6,
+    "dust": 6500,
+    "sharpdonty": 2200,
+    "insight": 2
+  },
+  {
+    "level": 20,
+    "rarity": 6,
+    "dust": 6800,
+    "sharpdonty": 2300,
+    "insight": 2
+  },
+  {
+    "level": 21,
+    "rarity": 6,
+    "dust": 7100,
+    "sharpdonty": 2400,
+    "insight": 2
+  },
+  {
+    "level": 22,
+    "rarity": 6,
+    "dust": 7400,
+    "sharpdonty": 2500,
+    "insight": 2
+  },
+  {
+    "level": 23,
+    "rarity": 6,
+    "dust": 7700,
+    "sharpdonty": 2600,
+    "insight": 2
+  },
+  {
+    "level": 24,
+    "rarity": 6,
+    "dust": 8000,
+    "sharpdonty": 2700,
+    "insight": 2
+  },
+  {
+    "level": 25,
+    "rarity": 6,
+    "dust": 8300,
+    "sharpdonty": 2800,
+    "insight": 2
+  },
+  {
+    "level": 26,
+    "rarity": 6,
+    "dust": 8600,
+    "sharpdonty": 2900,
+    "insight": 2
+  },
+  {
+    "level": 27,
+    "rarity": 6,
+    "dust": 8900,
+    "sharpdonty": 3000,
+    "insight": 2
+  },
+  {
+    "level": 28,
+    "rarity": 6,
+    "dust": 9200,
+    "sharpdonty": 3100,
+    "insight": 2
+  },
+  {
+    "level": 29,
+    "rarity": 6,
+    "dust": 9500,
+    "sharpdonty": 3200,
+    "insight": 2
+  },
+  {
+    "level": 30,
+    "rarity": 6,
+    "dust": 9800,
+    "sharpdonty": 3300,
+    "insight": 2
+  },
+  {
+    "level": 31,
+    "rarity": 6,
+    "dust": 10100,
+    "sharpdonty": 3400,
+    "insight": 2
+  },
+  {
+    "level": 32,
+    "rarity": 6,
+    "dust": 10400,
+    "sharpdonty": 3500,
+    "insight": 2
+  },
+  {
+    "level": 33,
+    "rarity": 6,
+    "dust": 10700,
+    "sharpdonty": 3600,
+    "insight": 2
+  },
+  {
+    "level": 34,
+    "rarity": 6,
+    "dust": 11000,
+    "sharpdonty": 3700,
+    "insight": 2
+  },
+  {
+    "level": 35,
+    "rarity": 6,
+    "dust": 11300,
+    "sharpdonty": 3800,
+    "insight": 2
+  },
+  {
+    "level": 36,
+    "rarity": 6,
+    "dust": 11600,
+    "sharpdonty": 3900,
+    "insight": 2
+  },
+  {
+    "level": 37,
+    "rarity": 6,
+    "dust": 11900,
+    "sharpdonty": 4000,
+    "insight": 2
+  },
+  {
+    "level": 38,
+    "rarity": 6,
+    "dust": 12200,
+    "sharpdonty": 4100,
+    "insight": 2
+  },
+  {
+    "level": 39,
+    "rarity": 6,
+    "dust": 12500,
+    "sharpdonty": 4200,
+    "insight": 2
+  },
+  {
+    "level": 40,
+    "rarity": 6,
+    "dust": 12800,
+    "sharpdonty": 4300,
+    "insight": 2
+  },
+  {
+    "level": 41,
+    "rarity": 6,
+    "dust": 13100,
+    "sharpdonty": 4400,
+    "insight": 2
+  },
+  {
+    "level": 42,
+    "rarity": 6,
+    "dust": 13400,
+    "sharpdonty": 4500,
+    "insight": 2
+  },
+  {
+    "level": 43,
+    "rarity": 6,
+    "dust": 13700,
+    "sharpdonty": 4600,
+    "insight": 2
+  },
+  {
+    "level": 44,
+    "rarity": 6,
+    "dust": 14000,
+    "sharpdonty": 4700,
+    "insight": 2
+  },
+  {
+    "level": 45,
+    "rarity": 6,
+    "dust": 14300,
+    "sharpdonty": 4800,
+    "insight": 2
+  },
+  {
+    "level": 46,
+    "rarity": 6,
+    "dust": 14600,
+    "sharpdonty": 4900,
+    "insight": 2
+  },
+  {
+    "level": 47,
+    "rarity": 6,
+    "dust": 14900,
+    "sharpdonty": 5000,
+    "insight": 2
+  },
+  {
+    "level": 48,
+    "rarity": 6,
+    "dust": 15200,
+    "sharpdonty": 5100,
+    "insight": 2
+  },
+  {
+    "level": 49,
+    "rarity": 6,
+    "dust": 15500,
+    "sharpdonty": 5200,
+    "insight": 2
+  }
+]
