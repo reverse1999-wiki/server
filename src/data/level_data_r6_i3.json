@@ -1,5 +1,65 @@
 [
   {
-    
+    "level": 1,
+    "rarity": 6,
+    "dust": 100,
+    "sharpdonty": 100,
+    "insight": 0
+  },
+  {
+    "level": 2,
+    "rarity": 6,
+    "dust": 150,
+    "sharpdonty": 130,
+    "insight": 0
+  },
+  {
+    "level": 3,
+    "rarity": 6,
+    "dust": 200,
+    "sharpdonty": 160,
+    "insight": 0
+  },
+  {
+    "level": 4,
+    "rarity": 6,
+    "dust": 250,
+    "sharpdonty": 190,
+    "insight": 0
+  },
+  {
+    "level": 5,
+    "rarity": 6,
+    "dust": 350,
+    "sharpdonty": 220,
+    "insight": 0
+  },
+  {
+    "level": 6,
+    "rarity": 6,
+    "dust": 400,
+    "sharpdonty": 250,
+    "insight": 0
+  },
+  {
+    "level": 7,
+    "rarity": 6,
+    "dust": 450,
+    "sharpdonty": 280,
+    "insight": 0
+  },
+  {
+    "level": 8,
+    "rarity": 6,
+    "dust": 500,
+    "sharpdonty": 310,
+    "insight": 0
+  },
+  {
+    "level": 9,
+    "rarity": 6,
+    "dust": 550,
+    "sharpdonty": 340,
+    "insight": 0
   }
 ]

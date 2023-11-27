@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Door",
+    "afflatus": "intellect",
+    "rarity": 2,
+    "damage_type": "reality",
+    "position": ["Support"]
+  },
+  {
+    "name": "Ms.Radio",
+    "afflatus": "spirit",
+    "rarity": 2,
+    "damage_type": "Mental",
+    "position": ["Debuff"]
+  },
+  {
+    "name": "aliEn T",
+    "afflatus": "star",
+    "rarity": 3,
+    "damage_type": "Reality",
+    "position": ["Def, Control"]
+  },
+  {
+    "name": "Bette",
+    "afflatus": "mineral",
+    "rarity": 3,
+    "damage_type": "Reality",
+    "position": ["Shield", "Support"]
+  },
+  {
+    "name": "Darley Clatter",
+    "afflatus": "beast",
+    "rarity": 3,
+    "damage_type": "Mental",
+    "position": ["Support"]
+  },
+  {
+    "name": "John Titor",
+    "afflatus": "intellect",
+    "rarity": 3,
+    "damage_type": "Reality",
+    "position": ["Dispeller", "Purify"]
+  },
+  {
+    "name": "La Source",
+    "afflatus": "plant",
+    "rarity": 3,
+    "damage_type": "Mental",
+    "position": ["Heal"]
+  },
+  {
+    "name": "Leilani",
+    "afflatus": "beast",
+    "rarity": 3,
+    "damage_type": "Reality",
+    "position": ["Support","DPS"]
+  },
+  {
+    "name": "ONiON",
+    "afflatus": "mineral",
+    "rarity": 3,
+    "damage_type": "Reality",
+    "position": ["DPS","Debuff"]
+  },
+  {
+    "name": "Sputnik",
+    "afflatus": "star",
+    "rarity": 3,
+    "damage_type": "Reality",
+    "position": ["DEF","Control"]
+  },
+  {
+    "name": "The Fool",
+    "afflatus": "star",
+    "rarity": 3,
+    "damage_type": "Mental",
+    "position": ["DEF"]
+  },
+  {
+    "name": "Twins Sleep",
+    "afflatus": "spirit",
+    "rarity": 3,
+    "damage_type": "Mental",
+    "position": ["Debuff", "Control"]
+  },
+  {
+    "name": "APPLe",
+    "afflatus": "star",
+    "rarity": 4,
+    "damage_type": "Mental",
+    "position": ["DPS", "Heal"]
+  },
+  {
+    "name": "Bunny Bunny",
+    "afflatus": "beast",
+    "rarity": 4,
+    "damage_type": "Reality",
+    "position": ["Heal", "Nasty Wound"]
+  },
+  {
+    "name": "Cristallo",
+    "afflatus": "mineral",
+    "rarity": 4,
+    "damage_type": "Reality",
+    "position": ["Nasty Wound", "Support"]
+  },
+  {
+    "name": "Eagle",
+    "afflatus": "plant",
+    "rarity": 4,
+    "damage_type": "Reality",
+    "position": ["Burst DMG", "DPS"]
+  },
+  {
+    "name": "Erick",
+    "afflatus": "star",
+    "rarity": 4,
+    "damage_type": "Reality",
+    "position": ["DPS", "Dispeller"]
+  },
+  {
+    "name": "Mesmer Jr.",
+    "afflatus": "intellect",
+    "rarity": 4,
+    "damage_type": "Mental",
+    "position": ["Support"]
+  },
+  {
+    "name": "Mondlicht",
+    "afflatus": "mineral",
+    "rarity": 4,
+    "damage_type": "Reality",
+    "position": ["Dps"]
+  },
+  {
+    "name": "Ms. Moissan",
+    "afflatus": "mineral",
+    "rarity": 4,
+    "damage_type": "Reality",
+    "position": ["Control", "Shield"]
+  },
+  {
+    "name": "Nick Bottom",
+    "afflatus": "beast",
+    "rarity": 4,
+    "damage_type": "Mental",
+    "position": ["Support"]
+  },
+  {
+    "name": "Oliver Fog",
+    "afflatus": "star",
+    "rarity": 4,
+    "damage_type": "Reality",
+    "position": ["DEF", "Support"]
+  },
+  {
+    "name": "Pavia",
+    "afflatus": "beast",
+    "rarity": 4,
+    "damage_type": "Mental",
+    "position": ["DPS", "Self-healing"]
+  },
+  {
+    "name": "Poltergeist",
+    "afflatus": "spirit",
+    "rarity": 4,
+    "damage_type": "Mental",
+    "position": ["DEF", "Debuff"]
+  },
+  {
+    "name": "Rabies",
+    "afflatus": "plant",
+    "rarity": 4,
+    "damage_type": "Reality",
+    "position": ["DPS", "Poison"]
+  },
+  {
+    "name": "TTT",
+    "afflatus": "star",
+    "rarity": 4,
+    "damage_type": "Mental",
+    "position": ["DEF", "Dispeller"]
+  },
+  {
+    "name": "Зима",
+    "afflatus": "plant",
+    "rarity": 4,
+    "damage_type": "Mental",
+    "position": ["Support", "Control"]
+  },
+  {
+    "name": "Baby Blue",
+    "afflatus": "star",
+    "rarity": 5,
+    "damage_type": "Mental",
+    "position": ["Debuff", "Control"]
+  },
+  {
+    "name": "Balloon Party",
+    "afflatus": "mineral",
+    "rarity": 5,
+    "damage_type": "Mental",
+    "position": ["DEF", "Heal"]
+  },
+  {
+    "name": "Bkornblume",
+    "afflatus": "plant",
+    "rarity": 5,
+    "damage_type": "Reality",
+    "position": ["Debuff", "Burst DMG", "Control"]
+  },
+  {
+    "name": "Charlie",
+    "afflatus": "star",
+    "rarity": 5,
+    "damage_type": "Mental",
+    "position": ["DPS", "Dispeller"]
+  },
+  {
+    "name": "Click",
+    "afflatus": "spirit",
+    "rarity": 5,
+    "damage_type": "Mental",
+    "position": ["DPS", "Debuff"]
+  },
+  {
+    "name": "Diggers",
+    "afflatus": "plant",
+    "rarity": 5,
+    "damage_type": "Mental",
+    "position": ["Control", "Shield", "Debuff"]
+  },
+  {
+    "name": "Dikke",
+    "afflatus": "beast",
+    "rarity": 5,
+    "damage_type": "Mental",
+    "position": ["DPS", "Heal"]
+  },
+  {
+    "name": "Matilda",
+    "afflatus": "star",
+    "rarity": 5,
+    "damage_type": "Mental",
+    "position": ["Debuff", "DPS"]
+  },
+  {
+    "name": "Necrologist",
+    "afflatus": "mineral",
+    "rarity": 5,
+    "damage_type": "Mental",
+    "position": ["Support", "DPS"]
+  },
+  {
+    "name": "Satsuki",
+    "afflatus": "plant",
+    "rarity": 5,
+    "damage_type": "Mental",
+    "position": ["DPS", "Control"]
+  },
+  {
+    "name": "Sonetto",
+    "afflatus": "mineral",
+    "rarity": 5,
+    "damage_type": "Mental",
+    "position": ["DPS", "Control", "Support"]
+  },
+  {
+    "name": "Sweetheart",
+    "afflatus": "beast",
+    "rarity": 5,
+    "damage_type": "Reality",
+    "position": ["DPS", "Control"]
+  },
+  {
+    "name": "Tennant",
+    "afflatus": "beast",
+    "rarity": 5,
+    "damage_type": "Reality",
+    "position": ["Shield", "Debuff", "DPS"]
+  },
+  {
+    "name": "X",
+    "afflatus": "intellect",
+    "rarity": 5,
+    "damage_type": "Reality",
+    "position": ["Dispeller", "DPS", "Control"]
+  },
+  {
+    "name": "A Knight",
+    "afflatus": "spirit",
+    "rarity": 6,
+    "damage_type": "Reality",
+    "position": ["DPS"]
+  },
+  {
+    "name": "An-an Lee",
+    "afflatus": "plant",
+    "rarity": 6,
+    "damage_type": "Reality",
+    "position": ["Control", "Support", "DPS"]
+  },
+  {
+    "name": "Centurion",
+    "afflatus": "beast",
+    "rarity": 6,
+    "damage_type": "Reality",
+    "position": ["Burst DMG", "DPS"]
+  },
+  {
+    "name": "Druvis III",
+    "afflatus": "plant",
+    "rarity": 6,
+    "damage_type": "Mental",
+    "position": ["DPS", "Control", "Support"]
+  },
+  {
+    "name": "Eternity",
+    "afflatus": "mineral",
+    "rarity": 6,
+    "damage_type": "Reality",
+    "position": ["Nasty Wound", "DPS"]
+  },
+  {
+    "name": "Lilya",
+    "afflatus": "star",
+    "rarity": 6,
+    "damage_type": "Reality",
+    "position": ["Burst DMG", "DPS"]
+  },
+  {
+    "name": "Medicine Pocket",
+    "afflatus": "beast",
+    "rarity": 6,
+    "damage_type": "Mental",
+    "position": ["Control", "Debuff", "Heal"]
+  },
+  {
+    "name": "Melania",
+    "afflatus": "beast",
+    "rarity": 6,
+    "damage_type": "Mental",
+    "position": ["Burst DMG", "DPS"]
+  },
+  {
+    "name": "Ms. NewBabel",
+    "afflatus": "mineral",
+    "rarity": 6,
+    "damage_type": "Reality",
+    "position": ["DEF", "Support", "Shield"]
+  },
+  {
+    "name": "Pickles",
+    "afflatus": "mineral",
+    "rarity": 6,
+    "damage_type": "Mental",
+    "position": ["DPS", "Support", "Dispeller"]
+  },
+  {
+    "name": "Regulus",
+    "afflatus": "star",
+    "rarity": 6,
+    "damage_type": "Mental",
+    "position": ["DPS", "Support"]
+  },
+  {
+    "name": "Sotheby",
+    "afflatus": "plant",
+    "rarity": 6,
+    "damage_type": "Reality",
+    "position": ["DPS", "Poison", "Heal"]
+  },
+  {
+    "name": "Voyager",
+    "afflatus": "star",
+    "rarity": 6,
+    "damage_type": "Mental",
+    "position": ["Debuff", "Control", "DPS"]
+  }
+]

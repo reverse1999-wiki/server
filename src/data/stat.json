@@ -1,0 +1,552 @@
+[
+  {
+    "character_name": "Door",
+    "atk": 799,
+    "hp": 4818,
+    "reality_def": 414,
+    "mental_def": 414,
+    "critical_technique": 224,
+    "critical_rate": 7.5,
+    "critical_damage": 141.2
+  },
+  {
+    "character_name": "Ms.Radio",
+    "atk": 823,
+    "hp": 5058,
+    "reality_def": 394,
+    "mental_def": 394,
+    "critical_technique": 281,
+    "critical_rate": 9.4,
+    "critical_damage": 144
+  },
+  {
+    "character_name": "aliEn T",
+    "atk": 719,
+    "hp": 5926,
+    "reality_def": 474,
+    "mental_def": 355,
+    "critical_technique": 220,
+    "critical_rate": 7.36,
+    "critical_damage": 141
+  },
+  {
+    "character_name": "Bette",
+    "atk": 799,
+    "hp": 4720,
+    "reality_def": 494,
+    "mental_def": 376,
+    "critical_technique": 233,
+    "critical_rate": 7.8,
+    "critical_damage": 141.65
+  },
+  {
+    "character_name": "Darley Clatter",
+    "atk": 838,
+    "hp": 4192,
+    "reality_def": 466,
+    "mental_def": 466,
+    "critical_technique": 175,
+    "critical_rate": 5.86,
+    "critical_damage": 138.75
+  },
+  {
+    "character_name": "John Titor",
+    "atk": 879,
+    "hp": 4769,
+    "reality_def": 376,
+    "mental_def": 474,
+    "critical_technique": 233,
+    "critical_rate": 7.8,
+    "critical_damage": 141.65
+  },
+  {
+    "character_name": "La Source",
+    "atk": 879,
+    "hp": 4576,
+    "reality_def": 376,
+    "mental_def": 394,
+    "critical_technique": 175,
+    "critical_rate": 5.86,
+    "critical_damage": 138.75
+  },
+  {
+    "character_name": "Leilani",
+    "atk": 887,
+    "hp": 4192,
+    "reality_def": 414,
+    "mental_def": 376,
+    "critical_technique": 222,
+    "critical_rate": 7.43,
+    "critical_damage": 141.1
+  },
+  {
+    "character_name": "ONiON",
+    "atk": 894,
+    "hp": 4625,
+    "reality_def": 376,
+    "mental_def": 316,
+    "critical_technique": 269,
+    "critical_rate": 9,
+    "critical_damage": 143.45
+  },
+  {
+    "character_name": "Sputnik",
+    "atk": 758,
+    "hp": 5588,
+    "reality_def": 379,
+    "mental_def": 494,
+    "critical_technique": 204,
+    "critical_rate": 6.83,
+    "critical_damage": 140.2
+  },
+  {
+    "character_name": "The Fool",
+    "atk": 750,
+    "hp": 5540,
+    "reality_def": 424,
+    "mental_def": 474,
+    "critical_technique": 191,
+    "critical_rate": 6.4,
+    "critical_damage": 139.55
+  },
+  {
+    "character_name": "Twins Sleep",
+    "atk": 0,
+    "hp": 0,
+    "reality_def": 0,
+    "mental_def": 0,
+    "critical_technique": 0,
+    "critical_rate": 0,
+    "critical_damage": 0
+  },
+  {
+    "character_name": "APPLe",
+    "atk": 876,
+    "hp": 4742,
+    "reality_def": 358,
+    "mental_def": 475,
+    "critical_technique": 252,
+    "critical_rate": 8.43,
+    "critical_damage": 142.6
+  },
+  {
+    "character_name": "Bunny Bunny",
+    "atk": 893,
+    "hp": 4943,
+    "reality_def": 413,
+    "mental_def": 346,
+    "critical_technique": 316,
+    "critical_rate": 10.56,
+    "critical_damage": 145.8
+  },
+  {
+    "character_name": "Cristallo",
+    "atk": 876,
+    "hp": 6305,
+    "reality_def": 292,
+    "mental_def": 292,
+    "critical_technique": 190,
+    "critical_rate": 6.36,
+    "critical_damage": 139.5
+  },
+  {
+    "character_name": "Eagle",
+    "atk": 919,
+    "hp": 4540,
+    "reality_def": 416,
+    "mental_def": 292,
+    "critical_technique": 445,
+    "critical_rate": 14.86,
+    "critical_damage": 152.25
+  },
+  {
+    "character_name": "Eric",
+    "atk": 919,
+    "hp": 4793,
+    "reality_def": 438,
+    "mental_def": 376,
+    "critical_technique": 252,
+    "critical_rate": 8.4,
+    "critical_damage": 142.6
+  },
+  {
+    "character_name": "Mesmer Jr.",
+    "atk": 926,
+    "hp": 4540,
+    "reality_def": 416,
+    "mental_def": 500,
+    "critical_technique": 348,
+    "critical_rate": 11.6,
+    "critical_damage": 147.4
+  },
+  {
+    "character_name": "Mondlicht.",
+    "atk": 919,
+    "hp": 4691,
+    "reality_def": 376,
+    "mental_def": 459,
+    "critical_technique": 190,
+    "critical_rate": 6.36,
+    "critical_damage": 139.5
+  },
+  {
+    "character_name": "Ms. Moissan",
+    "atk": 879,
+    "hp": 4994,
+    "reality_def": 416,
+    "mental_def": 459,
+    "critical_technique": 157,
+    "critical_rate": 5.26,
+    "critical_damage": 137.85
+  },
+  {
+    "character_name": "Nick Bottom",
+    "atk": 759,
+    "hp": 6053,
+    "reality_def": 500,
+    "mental_def": 376,
+    "critical_technique": 221,
+    "critical_rate": 7.4,
+    "critical_damage": 141.05
+  },
+  {
+    "character_name": "Oliver Fog",
+    "atk": 919,
+    "hp": 4540,
+    "reality_def": 500,
+    "mental_def": 333,
+    "critical_technique": 190,
+    "critical_rate": 6.36,
+    "critical_damage": 139.5
+  },
+  {
+    "character_name": "Pavia",
+    "atk": 1002,
+    "hp": 4035,
+    "reality_def": 376,
+    "mental_def": 313,
+    "critical_technique": 316,
+    "critical_rate": 10.5,
+    "critical_damage": 145.8
+  },
+  {
+    "character_name": "Poltergeist",
+    "atk": 926,
+    "hp": 4540,
+    "reality_def": 543,
+    "mental_def": 416,
+    "critical_technique": 221,
+    "critical_rate": 7.4,
+    "critical_damage": 141.05
+  },
+  {
+    "character_name": "Rabies",
+    "atk": 835,
+    "hp": 5801,
+    "reality_def": 376,
+    "mental_def": 376,
+    "critical_technique": 252,
+    "critical_rate": 8.43,
+    "critical_damage": 142.6
+  },
+  {
+    "character_name": "TTT",
+    "atk": 835,
+    "hp": 5045,
+    "reality_def": 416,
+    "mental_def": 459,
+    "critical_technique": 252,
+    "critical_rate": 8.43,
+    "critical_damage": 142.6
+  },
+  {
+    "character_name": "Зима",
+    "atk": 919,
+    "hp": 4793,
+    "reality_def": 401,
+    "mental_def": 401,
+    "critical_technique": 221,
+    "critical_rate": 7.4,
+    "critical_damage": 141.05
+  },
+  {
+    "character_name": "Baby blue",
+    "atk": 953,
+    "hp": 7152,
+    "reality_def": 498,
+    "mental_def": 615,
+    "critical_technique": 178,
+    "critical_rate": 5.96,
+    "critical_damage": 138.9
+  },
+  {
+    "character_name": "Balloon Party",
+    "atk": 975,
+    "hp": 6783,
+    "reality_def": 641,
+    "mental_def": 472,
+    "critical_technique": 236,
+    "critical_rate": 7.6,
+    "critical_damage": 141.8
+  },
+  {
+    "character_name": "Bkornblume",
+    "atk": 1139,
+    "hp": 5919,
+    "reality_def": 445,
+    "mental_def": 512,
+    "critical_technique": 194,
+    "critical_rate": 6.5,
+    "critical_damage": 139.7
+  },
+  {
+    "character_name": "Charlie",
+    "atk": 1179,
+    "hp": 5847,
+    "reality_def": 486,
+    "mental_def": 410,
+    "critical_technique": 180,
+    "critical_rate": 6.03,
+    "critical_damage": 139
+  },
+  {
+    "character_name": "Click",
+    "atk": 1108,
+    "hp": 6783,
+    "reality_def": 562,
+    "mental_def": 450,
+    "critical_technique": 284,
+    "critical_rate": 9.5,
+    "critical_damage": 144.2
+  },
+  {
+    "character_name": "Diggers",
+    "atk": 1046,
+    "hp": 6167,
+    "reality_def": 490,
+    "mental_def": 543,
+    "critical_technique": 284,
+    "critical_rate": 9.5,
+    "critical_damage": 144.2
+  },
+  {
+    "character_name": "Dikke",
+    "atk": 1046,
+    "hp": 6167,
+    "reality_def": 472,
+    "mental_def": 553,
+    "critical_technique": 300,
+    "critical_rate": 10.03,
+    "critical_damage": 145
+  },
+  {
+    "character_name": "Matilda",
+    "atk": 1046,
+    "hp": 5981,
+    "reality_def": 481,
+    "mental_def": 538,
+    "critical_technique": 356,
+    "critical_rate": 11.9,
+    "critical_damage": 147.8
+  },
+  {
+    "character_name": "Necrologist",
+    "atk": 1086,
+    "hp": 5919,
+    "reality_def": 410,
+    "mental_def": 574,
+    "critical_technique": 356,
+    "critical_rate": 11.9,
+    "critical_damage": 147.8
+  },
+  {
+    "character_name": "Necrologist",
+    "atk": 1086,
+    "hp": 6167,
+    "reality_def": 512,
+    "mental_def": 410,
+    "critical_technique": 356,
+    "critical_rate": 11.9,
+    "critical_damage": 147.8
+  },
+  {
+    "character_name": "Sonetto",
+    "atk": 975,
+    "hp": 6783,
+    "reality_def": 579,
+    "mental_def": 512,
+    "critical_technique": 247,
+    "critical_rate": 8.26,
+    "critical_damage": 142.35
+  },
+  {
+    "character_name": "Sweetheart",
+    "atk": 1077,
+    "hp": 5857,
+    "reality_def": 512,
+    "mental_def": 410,
+    "critical_technique": 497,
+    "critical_rate": 16.6,
+    "critical_damage": 154.85
+  },
+  {
+    "character_name": "Tennant",
+    "atk": 1086,
+    "hp": 5611,
+    "reality_def": 601,
+    "mental_def": 410,
+    "critical_technique": 338,
+    "critical_rate": 11.3,
+    "critical_damage": 146.9
+  },
+  {
+    "character_name": "X",
+    "atk": 1077,
+    "hp": 6783,
+    "reality_def": 538,
+    "mental_def": 538,
+    "critical_technique": 284,
+    "critical_rate": 9.5,
+    "critical_damage": 144.2
+  },
+  {
+    "character_name": "A Knight",
+    "atk": 1176,
+    "hp": 7258,
+    "reality_def": 559,
+    "mental_def": 559,
+    "critical_technique": 381,
+    "critical_rate": 12.73,
+    "critical_damage": 149.05
+  },
+  {
+    "character_name": "An-an Lee",
+    "atk": 1163,
+    "hp": 5609,
+    "reality_def": 572,
+    "mental_def": 572,
+    "critical_technique": 381,
+    "critical_rate": 12.73,
+    "critical_damage": 149.05
+  },
+  {
+    "character_name": "Centurion",
+    "atk": 1153,
+    "hp": 5939,
+    "reality_def": 549,
+    "mental_def": 439,
+    "critical_technique": 571,
+    "critical_rate": 19,
+    "critical_damage": 158.55
+  },
+  {
+    "character_name": "Druvis III",
+    "atk": 1133,
+    "hp": 6336,
+    "reality_def": 605,
+    "mental_def": 605,
+    "critical_technique": 305,
+    "critical_rate": 10.2,
+    "critical_damage": 145.25
+  },
+  {
+    "character_name": "Eternity",
+    "atk": 1120,
+    "hp": 6864,
+    "reality_def": 605,
+    "mental_def": 492,
+    "critical_technique": 254,
+    "critical_rate": 8.5,
+    "critical_damage": 142.7
+  },
+  {
+    "character_name": "Lilya",
+    "atk": 1110,
+    "hp": 6005,
+    "reality_def": 549,
+    "mental_def": 539,
+    "critical_technique": 515,
+    "critical_rate": 17.2,
+    "critical_damage": 155.75
+  },
+  {
+    "character_name": "Medicine Pocket",
+    "atk": 1077,
+    "hp": 6732,
+    "reality_def": 559,
+    "mental_def": 559,
+    "critical_technique": 381,
+    "critical_rate": 12.7,
+    "critical_damage": 149.05
+  },
+  {
+    "character_name": "Melania",
+    "atk": 1133,
+    "hp": 6204,
+    "reality_def": 572,
+    "mental_def": 572,
+    "critical_technique": 341,
+    "critical_rate": 11.4,
+    "critical_damage": 147.05
+  },
+  {
+    "character_name": "Ms. NewBabel",
+    "atk": 0,
+    "hp": 0,
+    "reality_def": 0,
+    "mental_def": 0,
+    "critical_technique": 0,
+    "critical_rate": 0,
+    "critical_damage": 0
+  },
+  {
+    "character_name": "Pickles",
+    "atk": 1120,
+    "hp": 6468,
+    "reality_def": 525,
+    "mental_def": 592,
+    "critical_technique": 305,
+    "critical_rate": 10.2,
+    "critical_damage": 145.25
+  },
+  {
+    "character_name": "Regulus",
+    "atk": 1186,
+    "hp": 5609,
+    "reality_def": 449,
+    "mental_def": 605,
+    "critical_technique": 515,
+    "critical_rate": 17.2,
+    "critical_damage": 155.75
+  },
+  {
+    "character_name": "Regulus",
+    "atk": 1186,
+    "hp": 5609,
+    "reality_def": 449,
+    "mental_def": 605,
+    "critical_technique": 515,
+    "critical_rate": 17.2,
+    "critical_damage": 155.75
+  },
+  {
+    "character_name": "Sotheby",
+    "atk": 1097,
+    "hp": 7390,
+    "reality_def": 515,
+    "mental_def": 515,
+    "critical_technique": 285,
+    "critical_rate": 9.53,
+    "critical_damage": 144.25
+  },
+  {
+    "character_name": "Voyager",
+    "atk": 1120,
+    "hp": 6732,
+    "reality_def": 515,
+    "mental_def": 549,
+    "critical_technique": 327,
+    "critical_rate": 10.93,
+    "critical_damage": 146.35
+  }
+]
