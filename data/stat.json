@@ -360,16 +360,6 @@
     "critical_damage": 147.8
   },
   {
-    "character_name": "Necrologist",
-    "atk": 1086,
-    "hp": 6167,
-    "reality_def": 512,
-    "mental_def": 410,
-    "critical_technique": 356,
-    "critical_rate": 11.9,
-    "critical_damage": 147.8
-  },
-  {
     "character_name": "Sonetto",
     "atk": 975,
     "hp": 6783,
@@ -508,16 +498,6 @@
     "critical_technique": 305,
     "critical_rate": 10.2,
     "critical_damage": 145.25
-  },
-  {
-    "character_name": "Regulus",
-    "atk": 1186,
-    "hp": 5609,
-    "reality_def": 449,
-    "mental_def": 605,
-    "critical_technique": 515,
-    "critical_rate": 17.2,
-    "critical_damage": 155.75
   },
   {
     "character_name": "Regulus",
